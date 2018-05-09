@@ -1,5 +1,5 @@
 # Books-App
-API project for Inspire
+Inspire exercise
 
 ### Prerequisites
 ```
