@@ -1,5 +1,4 @@
-# Books-App
-Inspire exercise
+# Shopping-List
 
 ### Prerequisites
 ```
